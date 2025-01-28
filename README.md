@@ -9,7 +9,7 @@
 
 ## 📂 Featured Projects
 - [**Ten Strands Project**](https://github.com/Tenstrands/Policy-Language-Analysis): Language analysis between school districts.
-- [**Modeling Social Media Usage**](https://github.com/srishtigoj/Stats-Project) : Analyzing predictors of social media usage.
+- [**Modeling Social Media Usage**] : Analyzing predictors of social media usage.
 
 💼 [Connect on LinkedIn](https://www.linkedin.com/in/shailybajracharya/)  
 📫 **Email**: shaily.bajra@berkeley.edu
